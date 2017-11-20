@@ -10,3 +10,9 @@ The file test.wav is a sound file to test the program on.
 
 The "process" function, in process.m, will create a file called test.wav.png when applied to it.
 Then, running "unprocess" on that will create test.wav.png.wav.
+
+This program was written for GNU Octave, a free software equivalent of Matlab.
+I haven't actually tested it in Matlab. If it doesn't work there, the IO function calls might need to be replaced by other ones.
+
+
+~ Deschutron
